@@ -1,0 +1,4 @@
+nama		: Restu aji pamungkas
+kelas		: Xi-rpl
+alamat		: batu ampar
+data
